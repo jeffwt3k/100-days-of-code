@@ -1,22 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Monday, April 16, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on a tiny bit of FreeCodeCamp's front end development course (Bootstrap). Googled a few things (container sizes, id vs. class, etc.) Realized just how much there is to learn. Decided on 100 Days of Code challenge.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Nervous. Don't know that I can commit a full hour every day to coding. Time will tell!
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** Rediscovered this bit that I made the first time I started FreeCodeCamp: (https://codepen.io/jeffwt3k/pen/WoqQMx)
 
 
 ### Day 1: June 27, Monday
