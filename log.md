@@ -2,7 +2,7 @@
 
 ### Day 0: Monday, April 16, 2018
 
-**Today's Progress**: Worked on a tiny bit of FreeCodeCamp's front end development course (Bootstrap). Googled a few things (container sizes, id vs. class, etc.) Realized just how much there is to learn. Decided on 100 Days of Code challenge.
+**Today's Progress**: Worked on a tiny bit of FreeCodeCamp's front end development course (Bootstrap). Googled a few things (container sizes, id vs. class, etc.) Realized just how much there is to learn. Decided on 100 Days of Code challenge. EDIT: Later, worked on a new version of that first project, for my very own doggos! Figured building the tribut page would help me remember all that I've forgotten up to this point :)
 
 **Thoughts:** Nervous. Don't know that I can commit a full hour every day to coding. Time will tell!
 
