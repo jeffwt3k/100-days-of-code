@@ -25,3 +25,15 @@ Re-committing to 100 Days of Code. I've been coding a good bit for the past few 
 **Thoughts:** Nervous. Don't know that I can commit a full hour every day to coding. Time will tell!
 
 **Link to work:** Rediscovered this bit that I made the first time I started FreeCodeCamp: (https://codepen.io/jeffwt3k/pen/WoqQMx)
+
+### Day 1: Tuesday, May 8, 2018
+
+Today I took the CSS that I had created for my webpage and scrapped most of it - it was a disorganized mess, and I can do better.
+
+It is part of a concept I'm trying for my portfolio (not yet published). Essentially, I want to practice my CSS and HTML skills and show them off throught the creation of my own "CSS Zen Garden." The first iteration, I've decided, will be one in which I style the base HTML of my portfolio with a CSS style sheet that only uses elements and pseudo-elements as targets for styling (no IDs or classes!) I hope this will help me to develop a thorough understanding of the ways in which I can use selector combinations to target specific bits.
+
+**Today's Progress**: Re-worked part of the CSS to create the header and parallax imagery on the site.
+
+**Thoughts:** Feelin' good!
+
+**Link to work:** N/A (on my compy!)
