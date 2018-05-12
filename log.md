@@ -26,6 +26,8 @@ Re-committing to 100 Days of Code. I've been coding a good bit for the past few 
 
 **Link to work:** Rediscovered this bit that I made the first time I started FreeCodeCamp: (https://codepen.io/jeffwt3k/pen/WoqQMx)
 
+
+
 ### Day 1: Tuesday, May 8, 2018
 
 Today I took the CSS that I had created for my webpage and scrapped most of it - it was a disorganized mess, and I can do better.
@@ -37,3 +39,33 @@ It is part of a concept I'm trying for my portfolio (not yet published). Essenti
 **Thoughts:** Feelin' good!
 
 **Link to work:** N/A (on my compy!)
+
+
+
+### Day 2: Wednesday, May 9, 2018
+
+**Today's Progress:** Scrapped old CSS as it was too difficult and unorganized - decided I will challenge myself and only style the HTML using elements and pseudo-elements. Working well so far, but there are definite hiccups in getting the page to be responsive like I want!
+
+**Thoughts:** Loving the challenge!
+
+**Link to work:** N/A (on my compy, website coming soon!)
+
+
+
+### Day 3: Thursday, May 10, 2018
+
+**Today's Progress:** Purchased domain! Worked on fine details of site - making everything justttt right!
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+
+### Day 4: Friday, May 11, 2018
+
+**Today's Progress:** Set up blog, continued fine tuning, especially with the mobile stuff. It's really difficult, but I found @media queries to be a real help.
+
+**Thoughts:** I know my page should be mobile first, but right now, it's just simpler to add @media queries to modify code for smaller screens. I'll come back and change it later :)
+
+**Link to work:** https://www.jwtrott.design
