@@ -69,3 +69,13 @@ It is part of a concept I'm trying for my portfolio (not yet published). Essenti
 **Thoughts:** I know my page should be mobile first, but right now, it's just simpler to add @media queries to modify code for smaller screens. I'll come back and change it later :)
 
 **Link to work:** https://www.jwtrott.design
+
+
+
+### Day 5: Saturday, May 12, 2018
+
+**Today's Progress:** Shared page on Facebook, after adding a favicon and some head content for Twitter/Facebook. Finally replaced my Lorem Ipsum with real text! Next up, SEO and accessibility. Also, working through some "CSS - The Complete Guide" lessons on Udemy.
+
+**Thoughts:** Feeling accomplished!
+
+**Link to work:** https://www.jwtrott.design
