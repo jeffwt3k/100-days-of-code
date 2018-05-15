@@ -79,3 +79,19 @@ It is part of a concept I'm trying for my portfolio (not yet published). Essenti
 **Thoughts:** Feeling accomplished!
 
 **Link to work:** https://www.jwtrott.design
+
+
+
+### Day 6: Sunday, May 13, 2018
+
+**Today's Progress:** Just did some reading. I want to start creating pages that can use WordPress' CMS, but don't know PHP or any server-side stuff. Read up on that. I get the basic concept, but implementation feels beyond my grasp at the moment.
+
+**Thoughts:** Frustrated. I feel like I'm hitting that first wall, where I realize how little I know. I feel intimidated, like it's all too much. But it felt this way when learning Spanish, too, and I got past that. I guess I just have to keep at it.
+
+
+
+### Day 7: Friday, May 14, 2018
+
+**Today's Progress:** Re-did blog. Put PHP on the backburner for now, decided to refocus myself on front-end dev and truly understand it. Particularly focusing in on CSS with my Udemy course.
+
+**Thoughts:** Feeling better today. PHP will come in time.
