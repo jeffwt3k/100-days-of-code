@@ -90,8 +90,16 @@ It is part of a concept I'm trying for my portfolio (not yet published). Essenti
 
 
 
-### Day 7: Friday, May 14, 2018
+### Day 7: Monday, May 14, 2018
 
 **Today's Progress:** Re-did blog. Put PHP on the backburner for now, decided to refocus myself on front-end dev and truly understand it. Particularly focusing in on CSS with my Udemy course.
 
 **Thoughts:** Feeling better today. PHP will come in time.
+
+
+
+### Day 8: Wednesday, May 16, 2018
+
+**Today's Progress:** Did some work in the Udemy course on CSS. Learning some interesting things! Pseudo elements vs. pseudo selectors was good to cover.
+
+**Thoughts:** Getting disinterested in CSS. Need to reinvigorate somehow...
