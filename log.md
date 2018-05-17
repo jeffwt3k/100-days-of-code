@@ -100,6 +100,6 @@ It is part of a concept I'm trying for my portfolio (not yet published). Essenti
 
 ### Day 8: Wednesday, May 16, 2018
 
-**Today's Progress:** Did some work in the Udemy course on CSS. Learning some interesting things! Pseudo elements vs. pseudo selectors was good to cover.
+**Today's Progress:** Did some work in the Udemy course on CSS. Learning some interesting things! Pseudo elements vs. pseudo selectors was good to cover. But mostly just review. My OCD keeps me from skipping the lectures hah!
 
 **Thoughts:** Getting disinterested in CSS. Need to reinvigorate somehow...
