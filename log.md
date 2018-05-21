@@ -103,3 +103,13 @@ It is part of a concept I'm trying for my portfolio (not yet published). Essenti
 **Today's Progress:** Did some work in the Udemy course on CSS. Learning some interesting things! Pseudo elements vs. pseudo selectors was good to cover. But mostly just review. My OCD keeps me from skipping the lectures hah!
 
 **Thoughts:** Getting disinterested in CSS. Need to reinvigorate somehow...
+
+
+
+### Day 9: Sunday, May 20, 2018
+
+I've actually been coding pretty much every day, I just keep forgetting to log it. Unlogged days will just be treated as non-existant, because it's too much trouble to try to remember exactly what happened on each day! :)
+
+**Today's Progress:** Made it to module 6 of my CSS course on Udemy!!!
+
+**Thoughts:** Interest re-invigorated. Spent the day coding with my brother, which helped tremendously!
